@@ -13,7 +13,7 @@ __Dans cet article, je vais vous expliquer en détail, le fonctionnement interne
 Et pour que tout cela soit vraiment fun, je vais utiliser [TypeScript](https://www.typescriptlang.org) comme langage de programmation et [Jest](https://jestjs.io) comme framework de test.
 
 Les exemples de code de cet article sont disponibles dans le dépôt Git suivant :
-[https://github.com/xebia-france/nodejs-streams](https://github.com/xebia-france/nodejs-streams).
+[https://github.com/avine/nodejs-streams](https://github.com/avine/nodejs-streams).
 
 Mais avant de coder, commençons par définir ce qu'est un Stream.
 
